@@ -2,6 +2,8 @@
 
 **Funding surface for [SyriaHub](https://github.com/PluraGate/SyriaHub)** — open-source research infrastructure for post-conflict knowledge production.
 
+[![Sponsor PluraGate](https://img.shields.io/badge/Sponsor-PluraGate-ea4aaa?logo=github-sponsors&style=for-the-badge)](https://github.com/sponsors/PluraGate)
+
 ---
 
 ## Why Now
